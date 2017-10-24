@@ -1,8 +1,8 @@
 include *.txt
-include TODO
 recursive-include w20e *.dtd
 recursive-include w20e *.pt
 recursive-include w20e *.py
 recursive-include w20e *.txt
 recursive-include w20e *.xml
 recursive-include w20e *.zcml
+recursive-include w20e CHANGES
