@@ -6,3 +6,4 @@ recursive-include w20e *.txt
 recursive-include w20e *.xml
 recursive-include w20e *.zcml
 recursive-include w20e CHANGES
+include TODO
