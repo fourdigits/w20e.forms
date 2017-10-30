@@ -1,5 +1,5 @@
 ZODB3
-lxml==3.2.5
+lxml
 zope.interface
 ordereddict
 python-dateutil
